@@ -2,7 +2,7 @@ import os
 !pip install adafruit-io
 
 x = "narendra_kumar"  #ADAFRUIT_IO_USERNAME
-y = "aio_ROyk07XzevxIox5jwwLVwfYfAsLS"  #ADAFRUIT_IO_KEY
+y = "aio_Qsfq51AgxCoqEiET9Sr0uAVN54UG"  #ADAFRUIT_IO_KEY
 
 from Adafruit_IO import Client, Feed
 aio = Client(x,y)
